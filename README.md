@@ -1,4 +1,4 @@
-# my-tailwind-project
+# Dogggos
 
 Empty project.
 
