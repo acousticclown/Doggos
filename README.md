@@ -1,6 +1,6 @@
 # Dogggos
 
-Empty project.
+A Dog Showcase Website.
 
 ## How to run on localhost
 
